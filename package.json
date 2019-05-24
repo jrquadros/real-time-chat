@@ -1,0 +1,13 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jrquadros/real-time-chat.git",
+  "author": "jrquadros <quadrosjunioradits@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
+  }
+}
